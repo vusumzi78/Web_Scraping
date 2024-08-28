@@ -1,6 +1,6 @@
 # Quotes Scraper
 
-This project is a simple web scraper that extracts quotes, authors, and tags from the "Quotes to Scrape" website. The website is designed as a practice ground for web scraping, making it an ideal target for this project. The script is written in Python and utilizes the `requests` and `BeautifulSoup` libraries to perform the scraping.
+This project is a simple web scraper that extracts quotes, authors, and tags from the "Quotes to Scrape" website. The script is written in Python and utilizes the `requests` and `BeautifulSoup` libraries to perform the scraping.
 
 ## Features
 
